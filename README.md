@@ -18,8 +18,6 @@ Con base en estos datos, se hace uso del análisis de datos y de la estadística
 
 - 2️⃣ El cambio de la forma de los picos.
 
-- 3️⃣ La heredabilidad de las especies. 
-
 ## 🌟 Sobre este proyecto
 
 El contenido de este repositorio forma parte del proyecto final del curso [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2) de la plataforma DataCamp. Durante este curso se desarrollan las habilidades estadísticas para realizar: 
